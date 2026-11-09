@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+*.db
+*.sqlite*
+data/
+Saves/
+.streamlit/secrets.toml
+*.log
+.DS_Store
+*.local.md
+*.local.json
+TESTING.md
+tests/test_analytics.py
+tests/test_presentation.py
